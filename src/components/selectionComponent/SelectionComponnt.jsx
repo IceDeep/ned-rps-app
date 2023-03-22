@@ -1,5 +1,5 @@
 import React from "react";
-import Triangle from "../../svg/triangle";
+import Triangle from "../../svg/Triangle";
 import SelectorComponent from "../SelectorComponent/SelectorComponent";
 import "../../index.css";
 import Rock from "../../svg/Rock";
