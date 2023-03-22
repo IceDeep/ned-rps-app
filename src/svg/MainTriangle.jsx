@@ -1,6 +1,6 @@
 import React from "react";
 
-function Triangle() {
+function MainTriangle() {
   return (
     <div className="none-none">
       <svg width="313" height="278" xmlns="http://www.w3.org/2000/svg">
@@ -16,4 +16,4 @@ function Triangle() {
   );
 }
 
-export default Triangle;
+export default MainTriangle;

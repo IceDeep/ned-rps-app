@@ -1,5 +1,5 @@
 import React from "react";
-import Triangle from "../../svg/Triangle";
+import MainTriangle from "../../svg/MainTriangle";
 import SelectorComponent from "../SelectorComponent/SelectorComponent";
 import "../../index.css";
 import Rock from "../../svg/Rock";
@@ -73,7 +73,7 @@ function SelectionComponnt({ setMyChoice }) {
             hover={`hover:scale-105 overflow-hidden`}
           />
         </Link>
-        <Triangle />
+        <MainTriangle />
         <SmallTriangle />
       </div>
     </div>
