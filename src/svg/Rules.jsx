@@ -7,7 +7,7 @@ function Rules(props) {
   const { isOpen, setIsOpen } = useContext(UserContext);
   if (!props.open) return null;
   return (
-    <div className="flex justify-center items-center fixed zdex">
+    <div className="flex mob-height justify-center items-center fixed zdex">
       <div className="modal">
         <div className="flex justify-between mb-9">
           <h2 className="text-rulesText font-700 font-barlow text-3xl">

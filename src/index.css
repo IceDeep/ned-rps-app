@@ -338,3 +338,9 @@
     background-color: inherit;
   }
 }
+
+@media screen and (max-height: 670px) {
+  .mob-height {
+    top: -5rem;
+  }
+}
