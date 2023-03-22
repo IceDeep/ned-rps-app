@@ -5,7 +5,7 @@ function BackdropComponent(props) {
   return (
     <div
       onClick={props.onClick}
-      className="z-10 bg-black w-screen mobile:h-bDrop back h-screen opacity-50 absolute"
+      className="zdex bg-black w-screen mobile:h-bDrop back h-screen opacity-50 absolute"
     ></div>
   );
 }

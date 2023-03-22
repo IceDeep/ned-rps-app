@@ -22,6 +22,10 @@
   grid-area: header;
 }
 
+.zdex {
+  z-index: 100;
+}
+
 .main {
   grid-area: main;
 }
